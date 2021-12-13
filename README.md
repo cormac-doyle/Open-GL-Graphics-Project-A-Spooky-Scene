@@ -1,6 +1,6 @@
 # Open-GL-Graphics-Project-A-Spooky-Scene
 
-All Models Were created by myself in Blender.
+All Models were created by myself in Blender.
 
 Animation was coded in C++ using OpenGL
 
